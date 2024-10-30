@@ -24,3 +24,14 @@
 2024-10-30 20:47:17.813 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1452
 2024-10-30 20:47:20.501 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1452
 2024-10-30 20:47:23.862 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1452
+2024-10-30 20:47:27.095 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1452
+2024-10-30 20:47:30.171 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1454
+2024-10-30 20:47:31.523 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1550
+2024-10-30 20:48:26.843 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1549
+2024-10-30 20:52:03.238 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1549
+2024-10-30 20:52:45.655 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1549
+2024-10-30 20:53:02.821 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1549
+2024-10-30 20:53:14.268 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1452
+2024-10-30 20:54:13.736 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-30 20:54:16.070 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-10-30 20:54:18.951 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'

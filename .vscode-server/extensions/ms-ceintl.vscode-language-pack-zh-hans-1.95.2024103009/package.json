@@ -2,7 +2,7 @@
 	"name": "vscode-language-pack-zh-hans",
 	"displayName": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
 	"description": "Language pack extension for Chinese (Simplified)",
-	"version": "1.94.2024101609",
+	"version": "1.95.2024103009",
 	"publisher": "MS-CEINTL",
 	"repository": {
 		"type": "git",
@@ -10,7 +10,7 @@
 	},
 	"license": "SEE MIT LICENSE IN LICENSE.md",
 	"engines": {
-		"vscode": "^1.94.0"
+		"vscode": "^1.95.0"
 	},
 	"icon": "languagepack.png",
 	"categories": [
@@ -386,9 +386,16 @@
 		"update": "cd ../vscode && npm run update-localization-extension zh-hans"
 	},
 	"__metadata": {
+		"id": "e4ee7751-6514-4731-9cdb-7580ffa9e70b",
+		"publisherId": "0b0882c3-aee3-4d7c-b5f9-872f9be0a115",
+		"publisherDisplayName": "Microsoft",
+		"targetPlatform": "undefined",
 		"isApplicationScoped": true,
-		"installedTimestamp": 1730292454280,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1730292450634,
 		"pinned": false,
-		"source": "vsix"
+		"preRelease": false,
+		"source": "gallery"
 	}
 }

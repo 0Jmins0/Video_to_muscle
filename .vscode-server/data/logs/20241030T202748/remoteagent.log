@@ -37,3 +37,19 @@
 2024-10-30 20:47:26.372 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
 2024-10-30 20:47:27.501 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans {"productVersion":{"version":"1.95.0","date":"2024-10-28T20:19:24.674Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.vscode-server/extensions/extensions.json","external":"file:///root/.vscode-server/extensions/extensions.json","path":"/root/.vscode-server/extensions/extensions.json","scheme":"file"}}
 2024-10-30 20:47:28.577 [info] Extension is already requested to install ms-ceintl.vscode-language-pack-zh-hans file:///root/.vscode-server/extensions/extensions.json
+2024-10-30 20:47:30.631 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-zh-hans: Success. Executed: true. Duration: 831ms.
+2024-10-30 20:47:30.686 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.95.2024103009: ms-ceintl.vscode-language-pack-zh-hans
+2024-10-30 20:47:30.688 [info] Renamed to /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.95.2024103009
+2024-10-30 20:47:30.694 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-zh-hans-1.94.2024101609
+2024-10-30 20:47:30.695 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2024-10-30 20:47:30.717 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans file:///root/.vscode-server/extensions/extensions.json
+2024-10-30 20:47:34.265 [info] Downloaded extension to file:///root/.vscode-server/data/CachedExtensionVSIXs/a2e8d1cb-a8d9-4385-9806-5ea288585eb5
+2024-10-30 20:47:34.268 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans {"productVersion":{"version":"1.95.0","date":"2024-10-28T20:19:24.674Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"installOnlyNewlyAddedFromExtensionPack":false,"profileLocation":{"$mid":1,"fsPath":"/root/.vscode-server/extensions/extensions.json","external":"file:///root/.vscode-server/extensions/extensions.json","path":"/root/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-30 20:47:34.270 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-zh-hans
+2024-10-30 20:47:34.276 [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-zh-hans
+2024-10-30 20:47:34.282 [info] Deleted removeExisting extension from disk ms-ceintl.vscode-language-pack-zh-hans /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.94.2024101609
+2024-10-30 20:47:34.359 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.94.2024101609: ms-ceintl.vscode-language-pack-zh-hans
+2024-10-30 20:47:34.361 [info] Renamed to /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.94.2024101609
+2024-10-30 20:47:34.365 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-zh-hans-1.95.2024103009
+2024-10-30 20:47:34.366 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2024-10-30 20:47:34.384 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans file:///root/.vscode-server/extensions/extensions.json
