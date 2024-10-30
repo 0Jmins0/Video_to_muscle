@@ -35,3 +35,5 @@
 2024-10-30 20:54:13.736 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-10-30 20:54:16.070 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
 2024-10-30 20:54:18.951 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-30 20:55:17.637 [error] Actual command not found, wanted to execute git.commit /181 __vsc00890818-35de-49d4-9a86-6399a38ec9d9 undefined
+2024-10-30 20:55:19.174 [error] Actual command not found, wanted to execute git.commit /178 __vsc00890818-35de-49d4-9a86-6399a38ec9d9 undefined
